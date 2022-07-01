@@ -17,7 +17,7 @@ cringe = [
 cls()
 print(' ')
 salt = int(input('Salt length (words): '))
-amount = int(input('How many? '))
+amount = int(input('How many lines? '))
 print(' ')
 for i in range(0, amount):
     output = ''
